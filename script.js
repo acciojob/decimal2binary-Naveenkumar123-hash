@@ -1,6 +1,1 @@
-function threeSum(arr, target) {
-// write your code here
-  
-}
-
-module.exports = threeSum;
+ return decimal.toString(2);
